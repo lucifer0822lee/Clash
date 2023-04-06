@@ -1,2 +1,5 @@
 # 国外域名关键字
-DOMAIN-KEYWORD,opnai
+# OpenAi
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,ai.com
